@@ -1,2 +1,2 @@
-# mf-annual-cal
-Created with CodeSandbox
+# Mutual Funds Annual Return Calculator
+Crafted with ❤️
