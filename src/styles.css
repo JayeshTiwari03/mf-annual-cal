@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.info-text {
+  margin-left: 30px;
+  margin-top: 23px;
+}
+
+.heading-text {
+  margin-left: 15px;
+}
+
+.welcome-text {
+  margin-left: 15px;
+  font-size: 20px;
+}
+
+.subheading {
+  margin-left: 15px;
+}
+
+.input-position {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.result {
+  margin: auto;
+  font-size: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 0 5px;
+  }
+  .heading-text {
+    font-size: 30px;
+  }
+  .input-position {
+    display: inline;
+    justify-content: left;
+  }
+  .info-text {
+    margin-left: 5px;
+    margin-top: 23px;
+  }
+  .result {
+    font-size: 18px;
+  }
+  .button-style {
+    justify-content: center;
+  }
+}
+
+.switch-position {
+  margin-top: 4px;
+}
